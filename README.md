@@ -1,10 +1,10 @@
-# Shoppie Awards
+# Moviefy Awards
 
 Summer 2021 Front End Web Developer Intern Challenge
 
 ## Motivation
-I recently finished the Web Development bootcamp at Juno College. I'm excited to keep learnign and growing, and finding the right role to do so is a priority for me. I want to be surrounded with people that I can learn from and that are excited to answer questions and share their knowledge.
-As a former Shopifolk (Culinary Partnerships, laid off after Covid), I feel confident that an intership at Shopify can offer me the proper mentorship to grow exponentially into my new career path as a Web Developer. 
+I'm excited to keep learnign and growing, and finding the right role to do so is a priority for me. I want to be surrounded with people that I can learn from and that are excited to answer questions and share their knowledge.
+As a Shopify merchant pursuing a master degree on computer science, I feel confident that an intership at Shopify can offer me the proper mentorship to grow exponentially into my new career path as a Merchant and as a Web Developer. 
 
 ## About this project
 This is my third app built in React, and my first one using Hooks with function components (rather that class components).

@@ -1,8 +1,8 @@
 function Footer() {
     return (
         <footer className="wrapper">
-            <p>
-                Made by <a href="https://sylcodes.com" target="_blank" rel="noreferrer">Syl</a> - For <a href="https://shopify.com" target="_blank" rel="noreferrer">Shopify</a>
+            <p class="whitenes"> 
+                Made by Mohamed Chahdoura - <a href="https://shopify.com" target="_blank" rel="noreferrer">Web Shopify Challenge Summer 2021</a>
             </p>
         </footer>
     );

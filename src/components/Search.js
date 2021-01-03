@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import Movie from './Movie';
 import axios from 'axios';
 import firebase from '../firebase.js'
+import logo from '../assets/logo.png';
+
 import { AiFillCloseCircle, AiOutlineSearch } from 'react-icons/ai';
 
 function Search(props){
@@ -96,10 +98,14 @@ function Search(props){
 
 return (
     <header className="search wrapper">
-
             <div className="title">
-                <h1>The 2021 Shoppies</h1>
-                <h2>Movie Awards for Entrepreneurs</h2>
+                <div className="logoDiv">
+                    <img className="logo" alt="Logo" src={logo}/>
+                    <div className="titlePadding">
+                        <h1 className="whitenes">The 2021 Moviefy</h1>
+                        <h2 className="whitenes">Movie Awards for Entrepreneurs</h2>
+                    </div>
+                </div>
             </div>
 
             <fieldset className="movieSearch">
